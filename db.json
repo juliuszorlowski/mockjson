@@ -1,0 +1,53 @@
+{
+    "bus-lines": [
+        {
+            "id": 1,
+            "title": "106"
+        },{
+            "id": 2,
+            "title": "112"
+        },{
+            "id": 2,
+            "title": "157"
+        },{
+            "id": 2,
+            "title": "164"
+        },{
+            "id": 2,
+            "title": "199"
+        }
+    ],
+    "bus-stops": [
+        {
+            "id": 1,
+            "title": "Szybowcowa"
+        },{
+            "id": 2,
+            "title": "Radarowa"
+        },{
+            "id": 3,
+            "title": "Astronautów"
+        },{
+            "id": 4,
+            "title": "Gościnna"
+        },{
+            "id": 5,
+            "title": "Szuberta"
+        },{
+            "id": 6,
+            "title": "Krynicka"
+        },{
+            "id": 7,
+            "title": "Płowce"
+        },{
+            "id": 8,
+            "title": "Czerwony Dwór"
+        },{
+            "id": 9,
+            "title": "Kołobrzeska"
+        },{
+            "id": 10,
+            "title": "Olsztyńska"
+        }
+    ]
+}
