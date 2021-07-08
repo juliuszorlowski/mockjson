@@ -30,19 +30,24 @@
     "bus-stops": [
         {
             "id": 1,
-            "title": "Szybowcowa"
+            "title": "Szybowcowa",
+            "busLineIds": [1, 2, 3, 4, 5]
         },{
             "id": 2,
-            "title": "Radarowa"
+            "title": "Radarowa",
+            "busLineIds": [2, 3, 4, 5]
         },{
             "id": 3,
-            "title": "Astronautów"
+            "title": "Astronautów",
+            "busLineIds": [1, 3, 4, 5]
         },{
             "id": 4,
-            "title": "Gościnna"
+            "title": "Gościnna",
+            "busLineIds": [1, 2, 4, 5]
         },{
             "id": 5,
-            "title": "Szuberta"
+            "title": "Szuberta",
+            "busLineIds": [1, 2, 3, 4, 5]
         }
     ]
 }
